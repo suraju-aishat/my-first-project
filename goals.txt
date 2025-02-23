@@ -1,0 +1,4 @@
+echo "My cybersecurity goals:
+1. Learn ethical hacking.
+2. Understand penetration testing.
+3. Improve network security skills." >goals.txt 
